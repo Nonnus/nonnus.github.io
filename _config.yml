@@ -9,7 +9,7 @@ permalink:	/blog/:title
 title:		Thinny
 tagline:	'blog'
 description:	'My personal blog.'
-url:		http://camporez.com
+url:		http://nonnus.github.io
 
 author:
   name:	'Ian Camporez Brunelli'
@@ -22,5 +22,5 @@ icon: /assets/images/icon.png
 cover: /assets/images/cover.jpg
 version:	1.0.0
 github:
-  repo:	https://github.com/camporez/camporez.github.io
-copyright: <p class="copyright">&copy;2014, <a href="http://camporez.com" target="_blank">Camporez</a>. <a href="http://creativecommons.org/licenses/by-nc/2.5/br/" target="_blank">Some rights reserved</a>.</p>
+  repo:	https://github.com/nonnus/nonnus.github.io
+copyright: <p class="copyright">&copy;2014, <a href="http://nonnus.github.io" target="_blank">Nonnus</a>. <a href="http://creativecommons.org/licenses/by-nc/2.5/br/" target="_blank">Some rights reserved</a>.</p>
