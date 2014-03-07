@@ -6,8 +6,8 @@ pygments:	true
 permalink:	/blog/:title
 
 # Setup
-title:		Thinny
-tagline:	'blog'
+title:		Nonnus
+tagline:	‘tech blog’
 description:	'My personal blog.'
 url:		http://nonnus.github.io
 
